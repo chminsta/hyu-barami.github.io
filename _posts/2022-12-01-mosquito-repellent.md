@@ -1,6 +1,3 @@
-git clone https://github.com/hyu-barami/hyu-barami.github.io.git
-git checkout -b jeongeunkim
-_posts/
 ---
 title: mosquito repellent
 author: Jeongeun Kim
