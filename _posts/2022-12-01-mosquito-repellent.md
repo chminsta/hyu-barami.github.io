@@ -41,7 +41,7 @@ tags: [post,jeongeunkim]     # TAG names should always be lowercase, 띄어쓰�
 
 ### 작품 동작 결과
 
-<img src="/assets/img/post/mosquito repellent/LCD.PNG" width=90%>
+<img src="/assets/img/post/2022-12-01-mosquito-repellent/LCD1.jpg" width=90%>
 
 Humidity: 39.00 %   Temperature: 24.00 *c 75.20 *F   Heat index: 23.47 *c 74.25 *Fdistance : 32.04 cm
 
