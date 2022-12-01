@@ -45,7 +45,7 @@ tags: [post,jeongeunkim]     # TAG names should always be lowercase, 띄어쓰�
 
 Humidity: 34.00 %   Temperature: 24.00 *c 75.20 *F   Heat index: 23.47 *c 74.25 *Fdistance : 32.04 cm
 
-<img src="/assets/img/post/2022-12-01-mosquito-repellent/mosquito_inside.jpg" width=90%>
+<img src="/assets/img/post/2022-12-01-mosquito-repellent/mosquito_inside.jpg" width="90%">
 
 ---
 
