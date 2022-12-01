@@ -3,7 +3,7 @@ title: 주식 가격 표시기
 author: Jeonghyun Kim
 date: 2022-11-15 15:30:00 +0900
 categories: [Exhibition, 2022년]
-tags: [post,jeonghyun,about-post]     # TAG names should always be lowercase, 띄어쓰기도 금지 
+tags: [post,jeonghyun]     # TAG names should always be lowercase, 띄어쓰기도 금지 
 ---
 
 ------------------------------------------
