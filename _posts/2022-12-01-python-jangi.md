@@ -3,7 +3,7 @@ title: 파이썬 장기-게임
 author: Ju Hyeongyu
 date: 2022-12-01 20:18:00 +0900
 categories: [Exhibition,2022년]
-tags: [post,heyongyu,about-post]     # TAG names should always be lowercase, 띄어쓰기도 금지 
+tags: [post,heyongyu]     # TAG names should always be lowercase, 띄어쓰기도 금지 
 ---
 
 ------------------------------------------
@@ -49,7 +49,7 @@ AI의 발전된 성능을 확실하게 알 수 있는 경기들을 보아왔습�
 코드 내부 상으로는 장기말이 제대로 움직이지만
 움직인 장기말이 ui에서는 표시되지 않는 오류가 해결되지 않았습니다.
 
-세부적인 코드는 이 링크로 가시면 나옵니다: <https://github.com/jhg666/mini_jangi>
+세부적인 코드는 이 링크로 가시면 나옵니다: [전체 코드](https://github.com/jhg666/mini_jangi)
 
 ---
 
