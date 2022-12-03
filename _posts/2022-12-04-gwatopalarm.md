@@ -59,7 +59,7 @@ tags: [post,leechangmin,kimminji,about-post]     # TAG names should always be lo
 -문제난이도 상중하이외의 값을받으면 다시 받게끔 하였다.
 -----
 ###코드
-
+```python
 import time
 import random
 import winsound as sd
@@ -331,7 +331,7 @@ schedule.every().day.at(waketime).do(alarm)
 while True:
     schedule.run_pending()
     time.sleep(1)
-
+```
 
 
 
