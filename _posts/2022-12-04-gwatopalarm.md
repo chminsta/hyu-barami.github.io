@@ -3,7 +3,7 @@ title: 과탑알람
 author: Chandmin Lee
 date: 2022-12-04 02:00:00 +0900
 categories: [Exhibition,2022년]
-tags: [post,leechangmin,kimminji,about-post]     # TAG names should always be lowercase, 띄어쓰기도 금지 
+tags: [post,leechangmin,kimminji]     # TAG names should always be lowercase, 띄어쓰기도 금지 
 ---
 
 ------------------------------------------
