@@ -3,7 +3,7 @@ title: RF 통신 모듈 제작
 author: Park Nayoung
 date: 2022-12-04 00:22:00 +0900
 categories: [Exhibition,2022년]
-tags: [post,parknayoung,jeonghyunkim]    
+tags: [post,parknayoung]    
 ---
 
 ------------------------------------------
@@ -40,15 +40,15 @@ tags: [post,parknayoung,jeonghyunkim]
 * Class E (CLE), Direct Tie, 434 MHz, Pout = 16dBm, wire-wound Inductor
 * 위의 조건에 맞게 PA 및 LNA 매칭값을 설정
 
-<img src="/assets/img/post/2022-12-04-RF-communication-module/a.PNG" width="90%"> 
+<img src="/assets/img/post/2022-12-04-RF-communication-module/a.png" width="90%"> 
 
 * easy eda 툴을 사용하여 회로 설계
 
-<img src="/assets/img/post/2022-12-04-RF-communication-module/b.PNG" width="90%"> 
+<img src="/assets/img/post/2022-12-04-RF-communication-module/b.png" width="90%"> 
 
 * 이를 바탕으로 아트웍 진행 후 발주
 
-<img src="/assets/img/post/2022-12-04-RF-communication-module/c.JPG" width="90%"> 
+<img src="/assets/img/post/2022-12-04-RF-communication-module/c.jpg" width="90%"> 
 
 * 제작된 마더 보드와 도더 보드 안테나를 납땜으로 연결
 
