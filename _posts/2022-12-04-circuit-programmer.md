@@ -3,7 +3,7 @@ title: Circuit Programmer
 author: Park HyungJoo
 date: 2022-12-04 03:30:00 +0900
 categories: [Exhibition,2022년]
-tags: [post,hyungjoo,dongseon,changjo,choihyunseo,about-post]     # TAG names should always be lowercase, 띄어쓰기도 금지 
+tags: [post,hyungjoo,dongseon,changjo,choihyunseo]     # TAG names should always be lowercase, 띄어쓰기도 금지 
 ---
 
 ------------------------------------------
