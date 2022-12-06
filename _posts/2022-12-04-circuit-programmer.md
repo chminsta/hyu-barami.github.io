@@ -10,7 +10,9 @@ tags: [post,hyungjoo,dongseon,changjo,choihyunseo]     # TAG names should always
 # Ciruit Programmer 
 
 학과: 융합전자공학부  
+
 지도교수: 한재덕  
+
 팀원: 박형주, 최창조, 김동선, 최현서  
 
 ---
