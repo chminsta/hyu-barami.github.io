@@ -27,7 +27,7 @@ CLE 매칭의 목적은 10dBm 이상의 RF 출력 전력을 얻기 위해서 사
 
 
 ### <노이즈 억제>
-<img src="/assets/img/post/2022-12-04-arduino-RFModem/noiseminimize.PNG" width="90%">
+<img src="/assets/img/post/2022-12-04-arduino-RFModem/noiseminimize.png" width="90%">
 전파의 송수신에 있어서 신호의 노이즈를 최대한 억제하고자 Via Curtain, Ground Metalization, PCB trace impedence 등 여러 기법을 사용하였습니다.
 * Via Curtain : GND 금속 가장자리를 여러 개의 Via로 둘러 쌈으로서, 전파가 회로 외부의 의한 영향을 최소화 하였습니다.
 * Ground Metalization : 금속의 겉면을 GND로 코팅함으로서, 역시 회로 외부의 전파에 의한 영향을 최소화 하였습니다.
@@ -35,11 +35,11 @@ CLE 매칭의 목적은 10dBm 이상의 RF 출력 전력을 얻기 위해서 사
 
 ------------------------------------------
 ### 작품 제작 과정 
-<img src="/assets/img/post/2022-12-04-arduino-RFModem/DirectTie.PNG" width="90%">
+<img src="/assets/img/post/2022-12-04-arduino-RFModem/DirectTie.png" width="90%">
 여러 레이아웃 구성 유형 중에서, 우리가 사용하고자 하는 조건에 맞고, UHF에서 가장 많이 사용되었고, 면허가 필요 없는 대역으로 434MHz를 선정하였습니다. 이 때 사용하는 RF의 레이아웃과 구성 유형은 위 회로와 같습니다.
 이제 이 조건에 맞게 PN과 LNA 매칭 값을 설정하고, EasyEda 툴을 이용하여 회로를 설계한 후, 이를 바탕으로 PCB 아트워크를 진행하였습니다.
 
-<img src="/assets/img/post/2022-12-04-arduino-PCBartwork.PNG" width="90%">
+<img src="/assets/img/post/2022-12-04-arduino-PCBartwork.png" width="90%">
 PCB 아트워크를 진행 한 뒤, 이를 JLCPCB를 통해서 발주하였고, 이후 마더보드와 도터 보드를 납땜으로 연결하였습니다. 그러나 이후 시간 부족등의 문제로 아두이노를 통해 직접 RF통신을 진행하지는 못하였습니다. 
 
 ------------------------------------------
