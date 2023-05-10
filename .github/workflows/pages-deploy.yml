@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      GEMS_PATH: /tmp/bundle
+      GEMS_PATH: vendor/bundle
 
     steps:
       - name: Checkout
@@ -37,7 +37,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ${{ env.GEMS_PATH }}
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
 
